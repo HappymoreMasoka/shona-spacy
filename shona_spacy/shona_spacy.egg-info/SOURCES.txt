@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+shona_spacy/shona_spacy.egg-info/PKG-INFO
+shona_spacy/shona_spacy.egg-info/SOURCES.txt
+shona_spacy/shona_spacy.egg-info/dependency_links.txt
+shona_spacy/shona_spacy.egg-info/requires.txt
+shona_spacy/shona_spacy.egg-info/top_level.txt

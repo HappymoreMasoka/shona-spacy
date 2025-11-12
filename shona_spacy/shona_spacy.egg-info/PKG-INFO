@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: shona-spacy
+Version: 0.1.0
+Summary: A rule-based + lookup spaCy pipeline for Shona
+Author-email: happymore <happymoremasoka@gmail.com>
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: spacy>=3.7
+Requires-Dist: jsonlines

@@ -1,0 +1,15 @@
+﻿# shona-spacy
+
+A rule-based spaCy pipeline for Shona NLP, with JSON lexicon lookup and Bantu morphology rules.
+
+## Installation
+```bash
+pip install shona-spacy
+@'
+__pycache__/
+*.pyc
+.pypirc
+dist/
+build/
+.env
+.DS_Store
